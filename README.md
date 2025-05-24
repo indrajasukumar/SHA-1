@@ -185,4 +185,5 @@ int main() {
 ![image](https://github.com/user-attachments/assets/3888c42e-066e-4f2d-ae6c-c6f3e3be5147)
 
 # Result:
+Thus the SHA-1 hashing technique had been implemented successfully.
 
